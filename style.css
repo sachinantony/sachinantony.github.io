@@ -23,9 +23,12 @@ p {
 	text-align: justify;
 }
 
+.float-right{
+	float:right;
+	margin-top: 5px;
+}
 #cv {
 	width: 90%;
-	max-width: 800px;
 	background: #f3f3f3;
 	margin: 30px auto;
 }
@@ -85,8 +88,8 @@ p {
 	color: #444;
 }
 
-#contactDetails ul li a, a[href^=tel] {
-	color: #444; 
+#contactDetails ul li a, a[href^=tel], .ext-link {
+	color: #034575; 
 	text-decoration: none;
 	-webkit-transition: all .3s ease-in;
 	-moz-transition: all .3s ease-in;
@@ -95,7 +98,7 @@ p {
 	transition: all .3s ease-in;
 }
 
-#contactDetails ul li a:hover { 
+#contactDetails ul li a:hover, .ext-link:hover { 
 	color: #cf8a05;
 }
 
@@ -111,6 +114,12 @@ section:first-child {
 
 section:last-child {
 	padding: 20px 0 10px;
+}
+
+.heading-big{
+	font-size: 1.5em;
+	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
+	font-style:bold;
 }
 
 .sectionTitle {
