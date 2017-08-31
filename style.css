@@ -237,6 +237,10 @@ section:last-child {
 		display: none;
 	}
 	
+	.date{
+		display:none;
+	}
+	
 	#name, #contactDetails {
 		float: none;
 		width: 100%;
