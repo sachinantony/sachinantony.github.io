@@ -226,7 +226,7 @@ section:last-child {
 	}
 }
 
-@media all and (max-width: 601px) {
+@media all and (max-width: 650px) {
 	#cv {
 		width: 95%;
 		margin: 10px auto;
