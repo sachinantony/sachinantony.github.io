@@ -84,7 +84,7 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #cf8a05;
+	border-bottom: 2px solid #0080ff;
 	background: #ededed;
 }
 
@@ -148,7 +148,7 @@ p {
 }
 
 #contactDetails ul li a:hover, .ext-link:hover { 
-	color: #cf8a05;
+	color: #0080ff;
 }
 
 
@@ -185,7 +185,7 @@ section:last-child {
 	font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
 	font-style: italic;
 	font-size: 1.5em;
-	color: #cf8a05;
+	color: #0080ff;
 }
 
 .sectionContent h2 {
