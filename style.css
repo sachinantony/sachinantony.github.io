@@ -72,6 +72,22 @@ p {
 	text-align: justify;
 }
 
+.creditSection {
+	font-size:0.85em;
+	padding-left:80%;
+	min-width:190px;
+	margin-bottom:20px;
+	font-style:italic;
+	width:20%;
+	float:right;
+}
+
+span {
+	font-size: 1em;
+	line-height: 1.4em;
+	color: #444;
+	text-align: justify;
+}
 .float-right{
 	float:right;
 	margin-top: 5px;
